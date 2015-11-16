@@ -2,6 +2,12 @@
 
 [What Is Coding Dojo](http://codingdojo.org/cgi-bin/index.pl?WhatIsCodingDojo)
 
+## Overview
+
+![Page 1](image/dojo-java-overview/dojo-java-overview.001.png)
+![Page 2](image/dojo-java-overview/dojo-java-overview.002.png)
+![Page 3](image/dojo-java-overview/dojo-java-overview.003.png)
+![Page 4](image/dojo-java-overview/dojo-java-overview.004.png)
 
 ## Material and Tools
 

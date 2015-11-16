@@ -5,7 +5,9 @@
 
 ## Material and Tools
 
-[Open Universiteit - Objectgeorienteerd Programmeren in Java](http://portal.ou.nl/web/objectgeorienteerd-programmeren-in-java-1)
+Open Universiteit [Objectgeoriënteerd programmeren in Java 1](https://www.ou.nl/web/studieaanbod/home?p_auth=idUNWB7D&p_p_id=storefront_portlet_WAR_storefront&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-4&p_p_col_count=1&_storefront_portlet_WAR_storefront__spage=%2FSelectProd.do%3FprodId%3D3548&_storefront_portlet_WAR_storefront_prodId=3548&_storefront_portlet_WAR_storefront__sorig=%2FCatalogShowProdDetailsPage.do)
+Open Universiteit [Objectgeoriënteerd programmeren in Java 2](https://www.ou.nl/web/studieaanbod/home?p_auth=idUNWB7D&p_p_id=storefront_portlet_WAR_storefront&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-4&p_p_col_count=1&_storefront_portlet_WAR_storefront__spage=%2FSelectProd.do%3Fname%3DObjectgeori%C3%ABnteerd+programmeren+in+Java+2%26prodId%3D3549&_storefront_portlet_WAR_storefront_name=Objectgeori%C3%ABnteerd+programmeren+in+Java+2&_storefront_portlet_WAR_storefront_prodId=3549&_storefront_portlet_WAR_storefront__sorig=%2FCatalogShowProdsPage.do%3FnumberOfProds%3D10%26offset%3D10)
+
 
 [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/)
 

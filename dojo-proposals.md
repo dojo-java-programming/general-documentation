@@ -3,6 +3,8 @@
 
 ## Topics
 
+- Setting up Eclipse, Maven and Git
+
 - Introduction (Java) Programming  
   What is a:  
   - variable
@@ -21,7 +23,7 @@
 
 - Test Driven Development (TDD)
 
-- Behavour Driven Development
+- Behaviour Driven Development (BDD)
 
 - Introduction to Jenkins
 

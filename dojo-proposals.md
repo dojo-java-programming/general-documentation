@@ -17,9 +17,9 @@
 
 - Introduction to Eclipse Development Environment
 
-- Introduction to Git, GitHub and Bitbucket
-
 - Introduction to Maven
+
+- Introduction to Git, GitHub and Bitbucket
 
 - Test Driven Development (TDD)
 

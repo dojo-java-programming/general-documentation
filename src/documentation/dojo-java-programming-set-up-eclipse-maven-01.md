@@ -76,7 +76,7 @@ Markeer de tekst `"Hello " + user + "!"`
 Gebruik Eclipse _Refactor -> Extract Method..._ om het samenstellen van het bericht als een apparte method te laten plaats vinden.
 
 
-De class zou er nu als volgd uit moeten zien
+De class zou er nu als volgt uit moeten zien
 
 	package org.organisation.dojo.java.helloworld;
 

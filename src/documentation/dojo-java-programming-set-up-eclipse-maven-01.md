@@ -1,4 +1,10 @@
-# Install JDK
+# Dojo Java Programming - Setting up Eclipse, Maven and Git Part 1 - Notes
+
+
+__INFO:__ These are some quick notes taken during the 1st session. It is more of a reminder, for 
+those who where there. And given them guidance, in case they like to lookup things, repeat them.
+It is not meant as a guided tour of what is all done during the session.
+
 
 ## Java
 

@@ -69,7 +69,7 @@ De class zou er nu als volgd uit moeten zien
 Maak variable aan `user`
 Gebruik de variable `user`, ipv woord `World`
 
-Check o fje een persoonlijke begroeting krijgt
+Check of je een persoonlijke begroeting krijgt
 
 Markeer de tekst `"Hello " + user + "!"`
 
@@ -83,7 +83,7 @@ De class zou er nu als volgd uit moeten zien
 	public class HelloApp {
 
 		public static void main(String[] args) {
-			String user = "Mario";
+			String user = "Mario"; // Update in case your name is not Mario
 			System.out.println(getMessage(user));
 		}
 
@@ -121,26 +121,27 @@ __WARNING__
 Voor nu gebruik deze waardes:
 
 groupd-id: `org.organisation.dojo.java.hello-world`
+
 artifact-id: `hello-world`
 
 ## Maven Package
 
-Via Eclipse project RMB menu: Run As... > Maven build
+Via Eclipse project RMB menu: _Run As... > Maven build_
 
 Dit zal de java sources file compileren
 
-Via Eclipse project RMB menu: Run As... > Maven test
+Via Eclipse project RMB menu: _Run As... > Maven test_
 
 Dit zal de java sources file compileren en de unit tests uitvoeren (echter unit testen, zijn nu nog niet in dit project aanwezig)
 
 
-Via Eclipse project RMB menu: Run As... > Maven build...
+Via Eclipse project RMB menu: _Run As... > Maven build..._
 
 Creates a new Maven build.
 Update name: `hello-world - package`
 Fill in Goal: `package`
 
-Use button _Run_ to execute this new MAven build job.
+Use button _Run_ to execute this new Maven build job.
 
 This will compile the source, run unit tests and create the projects jar file.
 
@@ -179,7 +180,7 @@ What is said about it?
 
 Search on internet for the `maven-jar-plugin`
 
-On the left menu, is an entry 'Creating an Executable JAR File'
+In the left menu, is an link _Creating an Executable JAR File_
 
 Look for how to set the `<mainClass>fully.qualified.MainClass</mainClass>` configuration
 

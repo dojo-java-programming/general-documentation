@@ -52,7 +52,7 @@ Gebruik de Eclipse template sysout
 Voeg de text `Hello World!` toe aan de system out.
 
 
-De class zou er nu als volgd uit moeten zien
+De class zou er nu als volgt uit moeten zien
 
 	package org.organisation.dojo.java.helloworld;
 

@@ -28,7 +28,7 @@ Pak de Eclipse archive uit in: `C:\Apps`
 
 Maak `D:\java\` of indien niet mogelijk `C:\java\` aan
 
-Open Eclipse en gef de volgende wrokspace op: `D:\java\eclipse-4.5-ws\dojo-java-ws`
+Open Eclipse en gef de volgende workspace op: `D:\java\eclipse-4.5-ws\dojo-java-ws`
 
 
 ## Aanmaken Eclipse Project
@@ -73,7 +73,7 @@ Check of je een persoonlijke begroeting krijgt
 
 Markeer de tekst `"Hello " + user + "!"`
 
-Gebruik Eclipse _Refactor -> Extract Method..._ om het samenstellen van het bericht als een apparte method te laten plaats vinden.
+Gebruik Eclipse _Refactor -> Extract Method..._ om het samenstellen van het bericht als een aparte method te laten plaats vinden.
 
 
 De class zou er nu als volgt uit moeten zien
@@ -96,11 +96,11 @@ De class zou er nu als volgt uit moeten zien
 
 ## Eclipse Configure Maven
 
-__INFO:__ Alleen binnen de organisatie nodig, niet voor thuis situatie.
+__INFO:__ Alleen binnen de organisatie nodig, niet voor thuissituatie.
 
 Maak directory aan `$home\.m2`
 
-Copieer de Maven configuratie `settings.xml` naar  `$home\.m2\settnigs.xml`
+Kopieer de Maven configuratie `settings.xml` naar  `$home\.m2\settings.xml`
 
 In mijn geval is dit `C:\Users\<user-id>\.m2`
 

@@ -3,7 +3,7 @@
 
 ## Topics
 
-- Setting up Eclipse, Maven and Git
+- [x] Setting up Eclipse, Maven and Git
 
 - Introduction (Java) Programming  
   What is a:  
@@ -15,16 +15,24 @@
   - interface
   - abstract class
 
-- Introduction to Eclipse Development Environment
+- [ ] Introduction to Eclipse Development Environment  
+      - Mylyn: BitBucket; GitHub; GitLab; Jira
 
-- Introduction to Maven
+      
+- [ ] Introduction to Maven  
+      - Maven Plug-ins
+        source
+        java doc
+      - Use Maven Archetype
+      - Parent pom
+      - Maven project site
+      - Create own Maven plugin
 
-- Introduction to Git, GitHub and Bitbucket
 
-- Test Driven Development (TDD)
+- [ ] Introduction to Git, GitHub and Bitbucket
 
-- Behaviour Driven Development (BDD)
+- [ ] Test Driven Development (TDD)
 
-- Introduction to Jenkins
+- [ ] Behaviour Driven Development (BDD)
 
-
+- [ ] Introduction to Jenkins

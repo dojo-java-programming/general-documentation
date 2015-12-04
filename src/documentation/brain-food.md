@@ -23,9 +23,9 @@ git scm
 [GitHub Help](https://help.github.com/)  
 [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)  
  
-[GitLab @ YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg/videos)  
 [GitHub @ YouTube](https://www.youtube.com/user/GitHubGuides/playlists)  
 [Atlassian @ YouTube](https://www.youtube.com/user/GoAtlassian/search?query=git)  
+[GitLab @ YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg/videos)  
 
 [GitHub Cheet Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 

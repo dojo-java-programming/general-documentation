@@ -11,12 +11,17 @@ From `daringfireball.net` about [MarkDown](https://daringfireball.net/projects/m
 
 [MarkDown at Stack Overflow](http://stackoverflow.com/editing-help)
 
+
 ## Discover Git
 
 Discover the possibilities with Git. Some good video tutorials, nice guides and reference material is given below.
 
-git scm
-[book: (pdf; epub;html); video; blog; download](https://git-scm.com/book/en/v2)
+__[Git - Source Code Management](https://git-scm.com/)__  
+Documentation [Reference Manual](https://git-scm.com/doc)  
+Application [Downloads](https://git-scm.com/downloads)  
+Book [Pro Git](https://git-scm.com/book/en/v2)  
+[Videos](https://git-scm.com/videos)  
+[Blog](https://git-scm.com/blog)  
 
 [GitHub Guides](https://guides.github.com/)  
 [GitHub Challenges](https://try.github.io/levels/1/challenges/1)  
@@ -29,5 +34,7 @@ git scm
 
 [GitHub Cheet Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
+
 ### Git Work Flow
+
 [Git Workflow](https://about.gitlab.com/2014/09/29/gitlab-flow/)  

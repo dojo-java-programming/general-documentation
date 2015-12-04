@@ -40,6 +40,8 @@
 
 - [ ] Test Driven Development (TDD)
 
+- [ ] Domain Driven Development (DDD)
+
 - [ ] Behaviour Driven Development (BDD)
 
 - [ ] Introduction to Jenkins

@@ -1,4 +1,4 @@
-# Dojo Proposals
+# Dojo Java Proposals
 
 
 ## Topics
@@ -51,3 +51,9 @@
 - [ ] Design Patterns
 
 - [ ] Continuous Integration, Continuous Deployment, Continuous Delivery
+
+- [ ] Eclipse Features  
+    - Call Hierarchy  
+    - Refactoring make small steps
+    
+- [ ] Regular Expressions

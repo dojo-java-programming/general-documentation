@@ -12,9 +12,11 @@ __Actor__(s) do things in that world.
 A concrete implementation would be a _robot_ (__Actor__) that can move around in a _maze_ (__World__) and find the
 _exit_ by himself. 
 
-| Actor  | Robot |
-| World  | Maze  |
-| Engine | Creates a _maze_ and places the _robot(s)_ in the maze. |
+| Element | Responsibility |
+| ------- | ----- |
+| Actor   | Robot |
+| World   | Maze  |
+| Engine  | Creates a _maze_ and places the _robot(s)_ in the maze. |
 
 The __Engine__ looks over the _maze_ and the _robot(s)_. Each robot has a method __void act()__, in which he can make
 decisions what he wants to do.    

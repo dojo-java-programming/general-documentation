@@ -35,6 +35,4 @@ Book [Pro Git](https://git-scm.com/book/en/v2)
 [GitHub Cheet Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
 
-### Git Work Flow
-
-[Git Workflow](https://about.gitlab.com/2014/09/29/gitlab-flow/)  
+__[Git Workflow](https://about.gitlab.com/2014/09/29/gitlab-flow/)__    

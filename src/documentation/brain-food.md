@@ -31,7 +31,7 @@ Book [Pro Git](https://git-scm.com/book/en/v2)
 [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)  
  
 [GitHub @ YouTube](https://www.youtube.com/user/GitHubGuides/playlists)  
-[Atlassian @ YouTube](https://www.youtube.com/user/GoAtlassian/search?query=git)  
+[Atlassian about Git @ YouTube](https://www.youtube.com/user/GoAtlassian/search?query=git)  
 [GitLab @ YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg/videos)  
 
 __[Git Workflow](https://about.gitlab.com/2014/09/29/gitlab-flow/)__    
